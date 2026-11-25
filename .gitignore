@@ -1,0 +1,8 @@
+work/
+*.bin
+*.BIN
+*.cue
+*.xdelta
+*.ttf
+*.dll
+__pycache__/

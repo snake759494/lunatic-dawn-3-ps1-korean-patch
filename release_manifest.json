@@ -1,0 +1,27 @@
+{
+  "version": "v1.0",
+  "game": "Lunatic Dawn III (Japan) SLPS-01749",
+  "patches": [
+    {
+      "xdelta": "Lunatic_Dawn_III_KO_v1.0.xdelta",
+      "xdelta_hash": {
+        "size": 230841,
+        "md5": "f817e6f3ff79ec408a8528ff890c3658",
+        "sha1": "f8b1bc45ef54e1c3fdb61cc5ddbf9f53fcb0ea75",
+        "sha256": "d1f3aadf0de80d3824cf49a69ed92e3b93264cf88205962bc33a5ce29f7da0bd"
+      },
+      "source": {
+        "size": 283695888,
+        "md5": "a38d9cac0d8a68b6e3723dcdb95d3779",
+        "sha1": "13dc5820d39928eaccfc58269931af7c1c9ba9e3",
+        "sha256": "2dfe4f92034a44f64c23811fcb564d7ed18b53d12e802da0bf935caacb23d55f"
+      },
+      "result": {
+        "size": 283695888,
+        "md5": "d58ad1dff5d392ff66db207aab6c7563",
+        "sha1": "96f0c37654576be57b91636c0bed31063cb3ade5",
+        "sha256": "c9dd3314f610adcebba11e184dc45a1f5b067ed197a46a71a9fc30cd05dde0b9"
+      }
+    }
+  ]
+}
